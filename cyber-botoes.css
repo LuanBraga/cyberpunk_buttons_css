@@ -1,0 +1,3 @@
+.cyber-botao {
+    --primaria: hsl(var(--matiz-primaria), 85%, calc(var(--luminosidade-primaria, 50) * 1%));
+}
